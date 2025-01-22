@@ -21,5 +21,6 @@ Update-Database
 ```
 
 ### Dev
-Swagger: https://localhost:7191/openapi/v1.json
-Scalar: https://localhost:7191/scalar/v1
+- Swagger: https://localhost:7191/openapi/v1.json
+
+- Scalar: https://localhost:7191/scalar/v1

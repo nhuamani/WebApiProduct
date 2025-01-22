@@ -1,0 +1,14 @@
+/.vs
+/.idea
+/packages
+bin
+obj
+*.user
+*.feature.cs
+*.nupkg
+/Releases/*.nupkg
+*.suo
+/.nunit/gui
+/TestResult.xml
+/Thumbs.db
+/Dapper.FastCRUD/project.lock.json

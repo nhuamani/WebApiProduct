@@ -9,3 +9,13 @@ Instalación de paquetes por NuGet Package Manager
 - Microsoft.EntityFrameworkCore.Tools
 - Microsoft.EntityFrameworkCore.Design 
 - Scalar.AspNetCore 2.0.2
+
+### Migración
+
+```bash
+# realizar migración
+Add-Migration Initial
+
+# aplicar migración a la DB
+Update-Database
+```
